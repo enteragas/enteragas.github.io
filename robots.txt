@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enteragas.github.io/enteragas.txt.gz
+Sitemap: https://enteragas.github.io/app/enteragas.txt.gz
+Sitemap: https://enteragas.github.io/assets/enteragas.txt.gz
+Sitemap: https://enteragas.github.io/css/enteragas.txt.gz
+Sitemap: https://enteragas.github.io/includes/enteragas.txt.gz
+Sitemap: https://enteragas.github.io/item/enteragas.txt.gz
+Sitemap: https://enteragas.github.io/src/enteragas.txt.gz
